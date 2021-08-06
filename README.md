@@ -3,7 +3,7 @@
 http://insideairbnb.com/get-the-data.html
 ![image](https://user-images.githubusercontent.com/78287535/128449579-f0faa09f-ae1c-4a8f-b0d6-b79fe5a911a7.png)
 
-https://www.canva.com/design/DAEmGUYLqDs/F0dvlKP5KV0QgFQUGDJg-g/view?utm_content=DAEmGUYLqDs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+https://www.canva.com/design/DAEmKo9sh8I/2ryWVJjO8lV5IzNkKACGrQ/view?utm_content=DAEmKo9sh8I&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#2
 
 # INTRODUCTION
 
