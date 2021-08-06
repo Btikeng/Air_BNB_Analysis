@@ -36,13 +36,10 @@ In order to be verified, host need to go through the verification process by pro
 
 ![image](https://user-images.githubusercontent.com/78287535/128453291-68ca9b1e-2863-49c9-8d6e-55b189e3965d.png)
 
-![image](https://user-images.githubusercontent.com/78287535/128452827-d4a0f80c-5dcf-4aff-89bf-39fe30204612.png)
+![image](https://user-images.githubusercontent.com/78287535/128453460-49f91b73-963b-4f84-992a-3f378b02986f.png)
 
-![image](https://user-images.githubusercontent.com/78287535/128452958-1c3995c1-3d7e-4390-aa6d-ef8cafea7505.png)
+![image](https://user-images.githubusercontent.com/78287535/128453531-01613b5a-3a0f-4509-b48d-c96911493737.png)
 
-![image](https://user-images.githubusercontent.com/78287535/128453036-903637f9-bd56-4ad0-9231-c4a75122006f.png)
-
-
-
+![image](https://user-images.githubusercontent.com/78287535/128453603-fd076810-e63f-4512-a41e-78fbfc6c0963.png)
 
 
