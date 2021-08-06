@@ -7,7 +7,7 @@ WHERE last_review IS NOT NULL
 GROUP BY extract(YEAR from last_review),extract(QUARTER from last_review)
 ORDER BY 1,2;
 
---Q# 02: What is the neighbourhood with the most bookings? 
+--Q# 02: What is the total number of neighbourhoods with the most bookings? 
 
 SELECT neighbourhood, SUM(price) Total_Booking
 FROM Listings
@@ -20,7 +20,7 @@ HAVING SUM(price) =(SELECT MAX(Total_Booking) AS Total_Booking
 	) AS TBLa);
 
 
---Q# 03: What property has the least bookings price?
+--Q# 03: What is the total number property with least bookings price?
 
 SELECT room_type, SUM(price) Total_Booking
 FROM Listings
@@ -32,7 +32,7 @@ HAVING SUM(price) =(SELECT MIN(Total_Booking) AS Total_Booking
 		GROUP BY room_type
 	) AS TBLa);
 
---Q# 04: What property has the most bookings price?
+--Q# 04: What is the total number property with the highest  bookings price?
 
 SELECT room_type, SUM(price) as Total_Booking
 FROM Listings
