@@ -1,6 +1,9 @@
 # Final_project
+
 http://insideairbnb.com/get-the-data.html
 ![image](https://user-images.githubusercontent.com/78287535/128449579-f0faa09f-ae1c-4a8f-b0d6-b79fe5a911a7.png)
+
+https://www.canva.com/design/DAEmGUYLqDs/F0dvlKP5KV0QgFQUGDJg-g/view?utm_content=DAEmGUYLqDs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 # INTRODUCTION
 
@@ -30,3 +33,16 @@ SQL is the structured query Language used to communicated with DATABASE.
 TABLEAU
 Wlhile looking for Air BNB, user wants to be sure that the place is secure as possible.
 In order to be verified, host need to go through the verification process by providing some personal information.
+
+![image](https://user-images.githubusercontent.com/78287535/128453291-68ca9b1e-2863-49c9-8d6e-55b189e3965d.png)
+
+![image](https://user-images.githubusercontent.com/78287535/128452827-d4a0f80c-5dcf-4aff-89bf-39fe30204612.png)
+
+![image](https://user-images.githubusercontent.com/78287535/128452958-1c3995c1-3d7e-4390-aa6d-ef8cafea7505.png)
+
+![image](https://user-images.githubusercontent.com/78287535/128453036-903637f9-bd56-4ad0-9231-c4a75122006f.png)
+
+
+
+
+
