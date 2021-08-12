@@ -1,4 +1,4 @@
-## Air BNB aanalysis ##
+## Air BNB Analysis ##
 
 http://insideairbnb.com/get-the-data.html
 ![image](https://user-images.githubusercontent.com/78287535/128449579-f0faa09f-ae1c-4a8f-b0d6-b79fe5a911a7.png)
