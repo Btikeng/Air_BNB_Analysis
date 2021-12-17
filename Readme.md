@@ -9,11 +9,11 @@ https://www.canva.com/design/DAEmKo9sh8I/2ryWVJjO8lV5IzNkKACGrQ/view?utm_content
 
 Our project is about about Air BNB aanalysis.
 As quick reminder, Air BNB stands for "Air bed and breakfast" which is a service that lets property owners rent 
-out their space to travelers looking or placeto rent stay.
+out their space to travelers looking or place to rent stay.
 
 As professional Data Scientists consultant, our job is to analyze Data, and bring some advices to whoever wants to start an Air BNB Business, or to whoever user looking Air BNB rental place.
 
-After this, we will be able to answer somes questions such as:
+After this, I build a # Dashboard visualization # to answer somes questions reuested by the client such as:
 - what is the total number of Booking in each city per year?
 - what is the city with highest booking price per year?
 - What is the average number of booking per day?
