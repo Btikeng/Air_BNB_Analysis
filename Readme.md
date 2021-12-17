@@ -13,7 +13,7 @@ out their space to travelers looking or place to rent stay.
 
 As professional Data Scientists consultant, our job is to analyze Data, and bring some advices to whoever wants to start an Air BNB Business, or to whoever user looking Air BNB rental place.
 
-After this, I build a ## Dashboard visualization ## to answer somes questions reuested by the client such as:
+After this, I build a *Dashboard visualization* to answer somes questions reuested by the client such as:
 - what is the total number of Booking in each city per year?
 - what is the city with highest booking price per year?
 - What is the average number of booking per day?
